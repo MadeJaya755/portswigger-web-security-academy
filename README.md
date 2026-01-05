@@ -17,6 +17,15 @@ All work was performed in a legal, controlled lab environment.
 
 ---
 
+## Progress Summary
+
+- Total labs completed: **170+**
+- Current level: **Apprentice**
+- Practitioner labs completed: **96**
+- Expert labs completed: **15**
+
+---
+
 ## Covered Vulnerability Categories
 
 - Authentication & Authorization
